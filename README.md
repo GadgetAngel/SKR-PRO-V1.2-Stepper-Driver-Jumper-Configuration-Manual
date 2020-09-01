@@ -1,0 +1,1 @@
+# SKR-PRO-V1.2-Stepper-Driver-Jumper-Configuration-Manual

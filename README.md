@@ -25,7 +25,7 @@ Press Enter to create your local clone.
 Now open Window explorer to the location of local clone.
 ```
 ## The Whole Repository in .zip file is located on Google Drive at: 
-https://drive.google.com/file/d/1fL-RPtjtY72nmkVp_ou_gCSoAiU5DzJe/view?usp=sharing 
+https://drive.google.com/file/d/1dc4kuhONI4s1_lY1z_UCxEDiOieaC4Od/view?usp=sharing 
 
 ## Table of Contents:
 
@@ -282,7 +282,7 @@ APPENDIX B......................................................................
       #12 TMC5161 with Rs = 0.062Ω (62mΩ) for SPI Mode..........................................................541
 APPENDIX C......................................................................................................542
   The (Latest Release of) Marlin Setup That Is Common to ALL Stepper Motor Drivers..............................542
-    Link to BIGTREETECH SKR-PRO-V1.1 User Manual.pdf............................................................542
+    Link to BIGTREETECH SKR-PRO-V1.2 User Manual.pdf............................................................542
     Link to BIGTREETECH SKR-PRO-V1.1 Guide.pdf..................................................................542
     Link to Pronterface Software................................................................................543
     Link to How to Calibrate your 3D Printer....................................................................543

@@ -602,8 +602,8 @@ Index...........................................................................
 
 ## Web Sites to Help ReCalibrate or Calibrate Your 3D Printer
 
-https://teachingtechyt.github.io/calibration.html?fbclid=IwAR2HwowLZs4jnP0RU1pVZ1TmMxYbvNhqFvoGKGzCXAyCB_HdcZDkemmTJhc#intro
+## https://teachingtechyt.github.io/calibration.html?fbclid=IwAR2HwowLZs4jnP0RU1pVZ1TmMxYbvNhqFvoGKGzCXAyCB_HdcZDkemmTJhc#intro
 
-https://3dpc.nl/
+## https://3dpc.nl/
 
 ---
